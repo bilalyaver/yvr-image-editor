@@ -1,6 +1,6 @@
 {
   "name": "yvr-image-editor",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "A simple image editor component for React",
   "main": "src/index.js",
   "scripts": {
